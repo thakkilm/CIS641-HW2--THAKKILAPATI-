@@ -2,7 +2,7 @@
 
 - I like playing Badminton
 - I love driving cars and going to long trips
-- I like watching Cartoons
+- I like watching Cartoon Network
 
 ### Technical Background
 
